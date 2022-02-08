@@ -1,0 +1,91 @@
+section {
+  width: 100%;
+  max-width: 500px;
+  margin: -50px auto;
+  background-color: #fefffe;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+section > h2 {
+  color: #36363C;
+}
+
+.FormSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.FormSection input {
+  height: 35px;
+  flex: 1;
+  margin-right: 5px;
+  border: none;
+  background: #F2F7FD;
+  padding-left: 15px;
+  outline: none;
+  border-radius: 5px;
+  color: gray;
+}
+
+.FormSection input::placeholder {
+  color: gray;
+}
+
+
+.FormSection button {
+  height: 35px;
+  padding: 0px 20px;
+  background: #31D62D;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.content-tasks ul {
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+.content-tasks ul li {
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 12px;
+  border-radius: 5px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  background: #F2F7FD;
+}
+
+.content-tasks ul li button {
+  padding: 10px 10px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+.content-tasks ul li span {
+  flex: 1;
+  margin-left: 15px;
+  color: gray;
+}
+
+.content-tasks ul li button.update {
+  background: #3562CB;
+  margin-left: 5px;
+}
+
+.content-tasks ul li button.delete {
+  background: #FDB74D;
+}
