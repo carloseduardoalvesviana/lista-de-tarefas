@@ -1,7 +1,6 @@
 <h1 align="center">
     <img alt="Todo List App" src="public/cover.png" />
 </h1>
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
