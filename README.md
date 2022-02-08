@@ -2,8 +2,6 @@
     <img alt="Todo List App" src="public/cover.png" />
 </h1>
 
-<br>
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
