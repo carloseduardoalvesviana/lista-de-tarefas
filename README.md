@@ -41,4 +41,4 @@ Todo App é perfeito para organizar as tarefas basicas do dia a dia.
 
 Feito com 💜 by carlos viana
 
-👋🏻 [bora ser amigo] (https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
+👋🏻 [linkedin] (https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
