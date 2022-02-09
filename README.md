@@ -9,8 +9,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Javascript](https://www.javascript.com/)
 - [Uuid](https://github.com/uuidjs/uuid)
-- [Prop-types](https://github.com/facebook/prop-types)
-- [LocalStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)
 
 ## 🚀 Como executar
 
