@@ -7,6 +7,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
+- [React-Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [Javascript](https://www.javascript.com/)
 - [Uuid](https://github.com/uuidjs/uuid)
 
@@ -31,7 +32,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Perfeito para organizar as tarefas basicas do dia a dia.
+Todo List App é perfeito para organizar as tarefas basicas do dia a dia.
 
 ---
 
