@@ -33,10 +33,8 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Todo App é perfeito para organizar as tarefas basicas do dia a dia.
+Perfeito para organizar as tarefas basicas do dia a dia.
 
 ---
 
 Feito com 💜 by carlos viana
-
-👋🏻 [linkedin] (https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
