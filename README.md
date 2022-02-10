@@ -7,7 +7,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [React-Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://www.javascript.com/)
 - [Uuid](https://github.com/uuidjs/uuid)
 
