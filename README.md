@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Todo List App" src="public/app.png" />
+    <img alt="Todo List App" src="public/cover.png" />
 </h1>
 
 
