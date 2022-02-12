@@ -2,8 +2,6 @@
     <img alt="Todo List App" src="public/cover.png" />
 </h1>
 
-
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -30,6 +28,10 @@ $ yarn
 $ yarn start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+## ☁ Deploy
+
+https://dental-care-eight.vercel.app/
 
 ## 💻 Projeto
 
