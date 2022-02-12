@@ -30,7 +30,6 @@ $ yarn start
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## ☁ Deploy
-
 https://dental-care-eight.vercel.app/
 
 ## 💻 Projeto
