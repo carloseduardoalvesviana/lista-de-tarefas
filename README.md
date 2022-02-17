@@ -31,7 +31,7 @@ $ yarn start
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## ☁ Deploy
-https://todo-list-app-one-orpin.vercel.app/
+https://lista-de-tarefas-delta.vercel.app/
 
 ## 💻 Projeto
 
