@@ -35,7 +35,7 @@ https://lista-de-tarefas-delta.vercel.app/
 
 ## 💻 Projeto
 
-Todo List App é perfeito para organizar as tarefas basicas do dia a dia.
+Perfeito para organizar as tarefas basicas do dia a dia.
 
 ---
 
