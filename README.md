@@ -9,6 +9,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Javascript](https://www.javascript.com/)
 
+## ☁ Funcionalidades
+- Criação
+- Atualização
+- Exclusão
+
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
