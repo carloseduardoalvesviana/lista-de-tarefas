@@ -8,8 +8,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Javascript](https://www.javascript.com/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Uuid](https://github.com/uuidjs/uuid)
 
 ## 🚀 Como executar
 
