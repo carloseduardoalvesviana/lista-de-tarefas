@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Todo List App" src="public/cover.png" />
+    <img alt="Todo List App" src="public/bg.png" />
 </h1>
 
 ## 🧪 Tecnologias
