@@ -8,6 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Javascript](https://www.javascript.com/)
+- [localStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)
 
 ## ✅ Funcionalidades
 - Criação
